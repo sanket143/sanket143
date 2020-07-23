@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanket143)](https://github.com/sanket143)
 
 <!--
