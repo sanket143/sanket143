@@ -1,4 +1,4 @@
-[![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanket143)](https://github.com/sanket143)
+[![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanket143&show_icons=true)](https://github.com/sanket143)
 
 <!--
 **sanket143/sanket143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
