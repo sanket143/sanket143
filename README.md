@@ -1,5 +1,6 @@
-Hello! <br>
-I am open to job/internship opportunities. Mail me at [chaudharisanket2000@gmail.com](mailto:chaudharisanket2000@gmail.com).
+Hello :wave:! <br>
 
-Field of Expertise: Functional programming using Rust and JavaScript, Web Programming, Designing on Figma. <br>
-Most recent project: [Sinix](https://github.com/sinix-dev).
+My field of expertise is functional programming using Rust and JavaScript, Web Programming and Designing on Figma. <br>
+The most recent project I've been working on is [Sinix](https://github.com/sinix-dev).
+
+Liked my project? Buy me a [Coffee :coffee:](https://ko-fi.com/sanket143) to support me.
